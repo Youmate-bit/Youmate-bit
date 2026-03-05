@@ -49,10 +49,10 @@ You can see the live site here:
    ```bash
    git clone [https://github.com/Youmate-bit/landing-page-1.git](https://github.com/Youmate-bit/landing-page-1.git)
 2. Create a virtual environment and install dependencies:
-   ``bash
+   ```bash
    pip install -r requirements.txt
 3. Run migrations and start the server:
-   ``bash
+   ```bash
    python manage.py migrate
    python manage.py runserver
 
